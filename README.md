@@ -9,5 +9,8 @@ I've used the view and created a scrolling functionality to represent the produc
 
 ![image](https://user-images.githubusercontent.com/56108018/130258269-26bc9266-a8fe-4fa5-b2bd-de57645c3062.png)
 
+![image](https://user-images.githubusercontent.com/56108018/130258412-14c8fc72-5a17-43d6-97b5-fa9f996675e3.png)
+
+
 ![App Preview](https://user-images.githubusercontent.com/56108018/130256127-6590c099-87ac-49d2-aaab-76fcd4b2d94f.png)
 
